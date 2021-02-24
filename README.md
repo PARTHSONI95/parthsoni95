@@ -12,6 +12,12 @@
 [![Linkedin: Parth](https://img.shields.io/badge/-parth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/parthajaysoni/)](https://www.linkedin.com/in/parthajaysoni/)
 
 
+📈 My GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=parthsoni95&show_icons=true&theme=radical&hide_title=true&count_private=true" alt="parthsoni95" />
+
+
+
 <!--
 **PARTHSONI95/parthsoni95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
