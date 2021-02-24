@@ -46,6 +46,7 @@ const parth = {
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=parthsoni95&show_icons=true&theme=radical&hide_title=true&count_private=true" alt="parthsoni95" />
 
 
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
 <!--
 **PARTHSONI95/parthsoni95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
