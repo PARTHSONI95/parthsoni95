@@ -2,7 +2,7 @@
 
 <h2> Hi, I'm Parth Soni! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230">
-<p><em>Graduate Student at <a href="http://www.unb.br">Northeastern University</a><img src="https://media.giphy.com/media/2A52VKJY4PJZfMX7yH/giphy.gif" width="30"> 
+<p><em>Graduate Student at <a href="http://www.unb.br">Northeastern University  </a><img src="https://media.giphy.com/media/2A52VKJY4PJZfMX7yH/giphy.gif" width="75"> 
 </em></p>
 
 
