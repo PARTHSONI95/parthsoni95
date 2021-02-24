@@ -10,6 +10,35 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=parthsoni95.parthsoni95)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 [![Linkedin: Parth](https://img.shields.io/badge/-parth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/parthajaysoni/)](https://www.linkedin.com/in/parthajaysoni/)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://parthsangita.me/)](https://parthsangita.me/)
+
+
+### <img src="https://media.giphy.com/media/OQ7KtaglIKTATCrH3q/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const parth = {
+    pronouns: "He" | "Him",
+    code: ["Java", "Python", "JavaScript", "C", "Bash"],
+    askMeAbout: ["Web dev", "App dev", "Life", "Food"],
+    technologies: {
+        mobileApp: ["Android"],
+        frontEnd: {
+            js: ["React", "Angular"],
+            css: ["Patternfly", "Bootstrap", "SASS"]
+        },
+        backEnd: {
+            js: ["Node", "Express", "Fastify"],
+            java: ["Spring", "Hibernate"]
+        },
+        cloudTech: ["AWS", "Docker🐳", "Kubernetes", "Openshift", "Azure"],
+        devOps: ["Jenkins", "Ansible", "Chef", "Puppet", "Github Actions", "Terraform"],
+        databases: ["PostgreSQL", "MySQL", "SQLite", "Oracle", "Redis", "MongoDB", "HBase", "Solr"],
+    },
+    architecture: ["Microservice Architecture", "Progressive web applications", "Single page applications", "Event driven serverless"],
+    currentFocus: "Deployment and Operations of Software Applications",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
 
 
 📈 My GitHub Stats
