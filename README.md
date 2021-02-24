@@ -2,8 +2,8 @@
 
 <h2> Hi, I'm Parth Soni! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230">
-<p><2em>Graduate Student at <a href="https://www.northeastern.edu/">Northeastern University  </a><img src="https://media.giphy.com/media/h3oHANvFRCTaIDT3Qo/giphy.gif" width="40"> 
-</2em></p>
+<h3><em>Graduate Student at <a href="https://www.northeastern.edu/">Northeastern University  </a><img src="https://media.giphy.com/media/h3oHANvFRCTaIDT3Qo/giphy.gif" width="40"> 
+</em></h3>
 
 
 
